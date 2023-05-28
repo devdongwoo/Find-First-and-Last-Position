@@ -21,8 +21,8 @@
 - ## 1. Sort --> dictionary
 
   <img src="./img/problemPoint.png"><br/>
-  Sorted 된 리스트를 준게 큰 도움이 되었다, 정렬된 리스트(O(nlogN))을 이용해<br/>
-  Dictionary 메모리를 사용하여 O(1)로 사용해야겠다 바로 생각났기 때문이다.<span style="font-size: 21px;">😃</span><br/>
+  Sorted 된 리스트를 준게 큰 도움이 되었다, 정렬된 리스트을 이용해<br/>
+  Dictionary 메모리를 사용해야겠다 바로 생각났기 때문이다.<span style="font-size: 21px;">😃</span><br/>
 
   Dict라는 Dictionary를 만들고 target을 key로 잡고,<br/>
   for문을 돌려서 조건문일때 만족하면 temp(임시) 배열에 넣어주고<br/>
